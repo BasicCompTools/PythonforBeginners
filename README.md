@@ -5,4 +5,4 @@ This repository will upload code scripts as part of [Python for beginners series
 [Lesson 02 - Interactive Development Environments for Python](https://youtu.be/pnh8v_tgTnM)\
 [Lesson 03 - Numbers and Strings (Text) in Python](https://youtu.be/DXi4dZTkrzU)\
 [Lesson 04 - Writing Python Modules](https://youtu.be/McY7pQKHU2I) [[Code](lesson04)]\
-[Lesson 05 - *if* and *match* statements in Python](https://youtu.be/McY7pQKHU2I) [[Code](lesson05)]
+[Lesson 05 - *if* and *match* statements in Python](https://youtu.be/OJTtacKzaBE) [[Code](lesson05)]
