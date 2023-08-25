@@ -6,4 +6,4 @@ This repository will upload code scripts as part of [Python for beginners series
 [Lesson 03 - Numbers and Strings (Text) in Python](https://youtu.be/DXi4dZTkrzU)\
 [Lesson 04 - Writing Python Modules](https://youtu.be/McY7pQKHU2I) [[Code](lesson04)]\
 [Lesson 05 - *if* and *match* statements in Python](https://youtu.be/OJTtacKzaBE) [[Code](lesson05)]\
-[Lesson 06 - *for* and *while* statements in Python](https://youtu.be/OJTtacKzaBE) [[Code](lesson06)]
+[Lesson 06 - *for* and *while* statements in Python](https://youtu.be/GPTTbsWf-og) [[Code](lesson06)]
