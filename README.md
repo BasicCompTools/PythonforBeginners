@@ -8,4 +8,4 @@ This repository will upload code scripts as part of [Python for beginners series
 [Tutorial 05 - *if* and *match* statements in Python](https://youtu.be/OJTtacKzaBE) [[Code](Fundamentals/Tutorial05)]\
 [Tutorial 06 - *for* and *while* statements in Python](https://youtu.be/GPTTbsWf-og) [[Code](Fundamentals/Tutorial06)]\
 [Tutorial 07 - Python Functions](https://youtu.be/XouKJENUbpE) [[Code](Fundamentals/Tutorial07)]\
-[Tutorial 08 - Lists in Python](https://youtu.be/XouKJENUbpE) [[Code](Fundamentals/Tutorial08)]
+[Tutorial 08 - Lists in Python](https://youtu.be/piCxW2jpnSs) [[Code](Fundamentals/Tutorial08)]
