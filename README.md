@@ -13,4 +13,4 @@ This repository will upload code scripts as part of [Python for beginners series
 - [Tutorial 08 - Python Lists](https://youtu.be/piCxW2jpnSs) [[Code](Fundamentals/Tutorial08)]
 - [Tutorial 09 - Tuples, Sets and Dictionary](https://youtu.be/2jjYOvHkqeI) [[Code](Fundamentals/Tutorial09)]
 - [Tutorial 10 - Input and Output](https://youtu.be/okwZfJIcUv8) [[Code](Fundamentals/Tutorial10)]
-- [Tutorial 11 - Classes](https://youtu.be/okwZfJIcUv8) [[Code](Fundamentals/Tutorial11)]
+- [Tutorial 11 - Classes](https://youtu.be/b-UHSI_6EFE) [[Code](Fundamentals/Tutorial11)]
